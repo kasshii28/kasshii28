@@ -4,4 +4,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kasshii28)](https://github.com/kasshii28/github-profile-trophy)
 
 # ⚒️Tech Ttack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,go,react,vite,nextjs,vscode,vitest,github,docker,ubuntu,postgres,nodejs,npm,pnpm,bun,tailwind,astro)](https://skillicons.dev)
