@@ -2,4 +2,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasshii28&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasshii28)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://trophygh.kolioaris.xyz/?username=kasshii28&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=kasshii28&row=1&theme=aura
+)](https://github.com/ryo-ma/github-profile-trophy)
